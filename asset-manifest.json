@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/desafio-Corebiz/static/css/main.a2949f35.css",
+    "main.js": "/desafio-Corebiz/static/js/main.a29fb33a.js",
+    "static/media/banner-desktop-ps.jpg": "/desafio-Corebiz/static/media/banner-desktop-ps.25041e3989fc0726036c.jpg",
+    "static/media/user.png": "/desafio-Corebiz/static/media/user.c920752422c11377083e.png",
+    "static/media/red-empty-star.png": "/desafio-Corebiz/static/media/red-empty-star.7ecbba507c8b03eec4ab.png",
+    "static/media/cart.png": "/desafio-Corebiz/static/media/cart.96c73cb49987ccdf1154.png",
+    "static/media/banner-mobile.jpg": "/desafio-Corebiz/static/media/banner-mobile.9bb9b62867146615cdc0.jpg",
+    "static/media/site-logo-corebiz-preto-cinza.svg": "/desafio-Corebiz/static/media/site-logo-corebiz-preto-cinza.63a4e8dae0a1e899ea6304ce3aeca185.svg",
+    "static/media/VTEX_white_RGB.svg": "/desafio-Corebiz/static/media/VTEX_white_RGB.2fa3e4a61a461b67a53690564a3bc23c.svg",
+    "index.html": "/desafio-Corebiz/index.html",
+    "static/media/consultor.svg": "/desafio-Corebiz/static/media/consultor.38f2dc904aff0d47abab3860f1bc812c.svg",
+    "static/media/contacto.svg": "/desafio-Corebiz/static/media/contacto.cd2940a5bea84bd92ba7ef52176d4b07.svg",
+    "main.a2949f35.css.map": "/desafio-Corebiz/static/css/main.a2949f35.css.map",
+    "main.a29fb33a.js.map": "/desafio-Corebiz/static/js/main.a29fb33a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a2949f35.css",
+    "static/js/main.a29fb33a.js"
+  ]
+}
