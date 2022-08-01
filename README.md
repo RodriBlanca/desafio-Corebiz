@@ -16,6 +16,12 @@ En este proyecto podrás:
 Se puede ver una versión del proyecto funcionando en:
 https://rodriblanca.github.io/desafio-Corebiz/
 
+![](images/desktop1.png)
+![](images/desktop2.png)
+![](images/mobile1.jpg)
+![](images/mobile2.png)
+![](images/mobile3.png)
+
 # Cómo correr el proyecto localmente
 * Clonar el repositorio
 * Correr `npm install`
