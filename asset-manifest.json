@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/desafio-Corebiz/static/css/main.1e3274d8.css",
-    "main.js": "/desafio-Corebiz/static/js/main.65483e63.js",
+    "main.css": "/desafio-Corebiz/static/css/main.25bc27c1.css",
+    "main.js": "/desafio-Corebiz/static/js/main.2c0886c9.js",
     "static/media/banner-desktop-ps.jpg": "/desafio-Corebiz/static/media/banner-desktop-ps.25041e3989fc0726036c.jpg",
     "static/media/user.png": "/desafio-Corebiz/static/media/user.c920752422c11377083e.png",
     "static/media/red-empty-star.png": "/desafio-Corebiz/static/media/red-empty-star.7ecbba507c8b03eec4ab.png",
@@ -12,11 +12,11 @@
     "index.html": "/desafio-Corebiz/index.html",
     "static/media/consultor.svg": "/desafio-Corebiz/static/media/consultor.38f2dc904aff0d47abab3860f1bc812c.svg",
     "static/media/contacto.svg": "/desafio-Corebiz/static/media/contacto.cd2940a5bea84bd92ba7ef52176d4b07.svg",
-    "main.1e3274d8.css.map": "/desafio-Corebiz/static/css/main.1e3274d8.css.map",
-    "main.65483e63.js.map": "/desafio-Corebiz/static/js/main.65483e63.js.map"
+    "main.25bc27c1.css.map": "/desafio-Corebiz/static/css/main.25bc27c1.css.map",
+    "main.2c0886c9.js.map": "/desafio-Corebiz/static/js/main.2c0886c9.js.map"
   },
   "entrypoints": [
-    "static/css/main.1e3274d8.css",
-    "static/js/main.65483e63.js"
+    "static/css/main.25bc27c1.css",
+    "static/js/main.2c0886c9.js"
   ]
 }
