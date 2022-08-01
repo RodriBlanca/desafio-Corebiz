@@ -17,13 +17,13 @@ const CartItem = ({image, title, amount, price, id}) => {
 
   return (
     <tr className='cart--item'>
-        <th className='cart--item__image'>{<img src={image} alt={title} />}</th>
-        <th className='cart--item__text'>{title}</th>
-        <th className='cart--item__text'>{amount}</th>
-        <th className='cart--item__text'>${price.toLocaleString('pt-BR')}</th>
-        <th className='cart--item__delete' onClick={handleDelete}>
+        <td className='cart--item__image'>{<img src={image} alt={title} />}</td>
+        <td className='cart--item__text'>{title}</td>
+        <td className='cart--item__text'>{amount}</td>
+        <td className='cart--item__text'>${price.toLocaleString('pt-BR')}</td>
+        <td className='cart--item__delete' onClick={handleDelete}>
             <button className='cart--item__button'>X</button>
-        </th>
+        </td>
     </tr>
   )
 }

@@ -53,6 +53,7 @@ $newsletterFont: Lato, sans-serif;
 
     .search {
         align-items: center;
+        border-bottom: 1px solid $mainColor;
         display: flex;
         left: 0;
         position: absolute;
@@ -265,7 +266,7 @@ $newsletterFont: Lato, sans-serif;
             position: sticky;
             top: 0;
             z-index: 100;
-            & th {
+            & td {
                 font-size: .9em;
             }
         }
