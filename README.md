@@ -16,11 +16,11 @@ En este proyecto podrás:
 Se puede ver una versión del proyecto funcionando en:
 https://rodriblanca.github.io/desafio-Corebiz/
 
-![](images/desktop1.png)
-![](images/desktop2.png)
+![](images/desktop1.jpg)
+![](images/desktop2.jpg)
 ![](images/mobile1.jpg)
-![](images/mobile2.png)
-![](images/mobile3.png)
+![](images/mobile2.jpg)
+![](images/mobile3.jpg)
 
 # Cómo correr el proyecto localmente
 * Clonar el repositorio
