@@ -551,7 +551,6 @@
     color: #F8475F;
     display: none;
     font-weight: bolder;
-    margin-top: 5px;
   }
   .newsletter--form__button {
     background-color: #000000;
@@ -927,6 +926,12 @@
     height: 48px;
     margin: 0 5px;
     width: 140px;
+  }
+  .newsletter--form div {
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: row;
+            flex-direction: row;
   }
   .input--container {
     position: relative;
