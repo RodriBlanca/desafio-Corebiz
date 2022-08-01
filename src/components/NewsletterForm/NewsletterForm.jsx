@@ -5,7 +5,7 @@ const NewsletterForm = () => {
 
   const [name, setName] = useState('');
   const [email, setEmail] = useState('');
-  const regex = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
+  const mailValidation = /^(([^<>()\[\]\\.,;:\s@"]+(\.[^<>()\[\]\\.,;:\s@"]+)*)|(".+"))@((\[[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}\.[0-9]{1,3}])|(([a-zA-Z\-0-9]+\.)+[a-zA-Z]{2,}))$/;
   const [sended, setSended] = useState(false);
   const nameInput = useRef();
   const emailInput = useRef();
@@ -28,8 +28,7 @@ const NewsletterForm = () => {
 
     // Validar
     if(name.length > 0 && email.length > 0) {
-      if(regex.test(email)) {
-        console.log('Enviar')
+      if(mailValidation.test(email)) {
         const newSuscriber = {
           name,
           email

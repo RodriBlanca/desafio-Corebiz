@@ -63,7 +63,7 @@
     height: 24px;
     margin-bottom: 5px;
     margin-right: 25px;
-    padding-bottom: 4px;
+    padding-bottom: 5px;
     width: 24px;
   }
   .menu {
@@ -521,7 +521,8 @@
     border-radius: 6px;
     height: 48px;
     margin: 10px 0;
-    width: 100%;
+    padding-left: 15px;
+    width: 95%;
   }
   .newsletter--form__input:invalid[focused="true"] {
     border: 2px solid #F8475F;
@@ -946,6 +947,19 @@
             animation: none;
     height: auto;
     width: 180px;
+  }
+  .card:hover .card--information {
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+        -ms-flex-direction: column;
+            flex-direction: column;
+    height: 168px;
+    -webkit-box-pack: justify;
+        -ms-flex-pack: justify;
+            justify-content: space-between;
   }
   .card--information__list::after {
     font-weight: 900;

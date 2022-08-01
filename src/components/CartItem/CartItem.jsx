@@ -20,7 +20,7 @@ const CartItem = ({image, title, amount, price, id}) => {
         <th className='cart--item__image'>{<img src={image} alt={title} />}</th>
         <th className='cart--item__text'>{title}</th>
         <th className='cart--item__text'>{amount}</th>
-        <th className='cart--item__text'>{price}</th>
+        <th className='cart--item__text'>${price.toLocaleString('pt-BR')}</th>
         <th className='cart--item__delete' onClick={handleDelete}>
             <button className='cart--item__button'>X</button>
         </th>

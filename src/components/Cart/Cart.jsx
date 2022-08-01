@@ -23,11 +23,11 @@ const Cart = () => {
             <table className='table'>
               <thead className='table--head'>
                 <tr>
-                  <th></th>
-                  <th>Product</th>
-                  <th>Amount</th>
-                  <th>Price</th>
-                  <th></th>
+                  <td></td>
+                  <td>Producto</td>
+                  <td>Cantidad</td>
+                  <td>Precio</td>
+                  <td></td>
                 </tr>
               </thead>
               <tbody className='table--body'>
