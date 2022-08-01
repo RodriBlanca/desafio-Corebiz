@@ -23,11 +23,6 @@ const ProductsContainer = ({data}) => {
                     />);
             })}
           </div>
-          <div className='slider--controls'>
-            <span></span>
-            <span></span>
-            <span></span>
-          </div>
         </div>
     </div>
   )
